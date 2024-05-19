@@ -1,0 +1,152 @@
+@media ( max-width: 869px) {
+    .header-left{
+        float: none;
+        width: 100%;
+        text-align: center;
+       }
+
+       .header-right{
+        float: none;
+        width: 100%;
+        text-align: center;
+    }
+       .header-right ul{
+        text-align: center;
+        margin-top: 20px;
+    }
+}
+@media ( max-width: 379px) {
+    .banner{
+        padding: 90px 0px;
+    }
+
+    .banner h1{
+        font-size: 40px;
+    }
+}
+@media ( max-width: 301px) {
+    .banner{
+        padding: 60px 0px;
+    }
+
+    .banner h1{
+        font-size: 30px;
+    }
+}
+
+/* -------------------------------- */
+@media ( max-width: 1000px) {
+    .icon-item .shape{
+        width:45%;
+        margin-left: 100px;
+        margin-right: 40px;
+        box-sizing: border-box;
+        margin-bottom: 50px;
+
+    }
+    .icon-item{
+      text-align: center;
+     
+    }
+}
+
+
+@media ( max-width: 898px) {
+    .icon-item .shape{
+        width:35%;
+        margin-left: 60px;
+        margin-right: 10px;
+        box-sizing: border-box;
+        margin-bottom: 50px;
+
+    }
+    .icon-item{
+      text-align: center;
+     
+    }
+}
+@media ( max-width: 585px) {
+    .icon-item .shape{
+        width:60%;
+        margin-left: 120px;
+        margin-right: 10px;
+        box-sizing: border-box;
+        margin-bottom: 50px;
+
+    }
+    .icon-item{
+      text-align: center;
+     
+    }
+}
+@media ( max-width: 503px) {
+    .icon-item .shape{
+        margin-left: 90px;
+
+    }
+    .icon-item{
+      text-align: center;
+     
+    }
+}
+@media ( max-width: 429px) {
+    .icon-item .shape{
+        margin-left: 70px;
+
+    }
+    .icon-item{
+      text-align: center;
+     
+    }
+}
+@media ( max-width: 323px) {
+    .icon-item .shape{
+        margin-left: 45px;
+
+    }
+    .icon-item{
+      text-align: center;
+     
+    }
+}
+/* ------------------- */
+
+@media ( max-width: 1193px) {
+
+    .photo{
+        float: none;
+        width: 100%;
+    }
+    .about-us {
+        float: none;
+        width: 100%;
+    }
+
+    .photo img {
+        width: 902px;
+    }
+
+}
+
+/* ------------------- */
+@media ( max-width: 530px) {
+
+    .icon-div{
+        width: 100%;
+        float: none;
+        font-size: 16px;
+    }
+
+}
+/* ----------------------- */
+@media ( max-width: 276px) {
+
+    .footer{
+        background-color: #222222;
+        text-align: center;
+        padding: 0px;
+    
+    }
+
+}
+
